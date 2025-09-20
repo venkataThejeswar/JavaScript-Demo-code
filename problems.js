@@ -109,3 +109,4 @@
 // console.log(counter1());
 
 //I learned how to push a folder into github
+// Yes, ofcourse I had a practice on github to coomit and push 
